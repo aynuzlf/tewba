@@ -1,1 +1,3 @@
 Allah help me and give me strength to over my bad habit
+===rules====
+=> merge prevous branch to master before creating next day. 
